@@ -127,7 +127,7 @@ public:
         else if (pos == 1)
         {
             temp->setnext(start); // temp chi valu ji aahe ti start la assign krnya sathi use kel ;
-            start = temp;         // temp cha data start mdhe janar
+            start = temp;         // temp cha data start mdhe janar ;;
             return;
         }
         else
