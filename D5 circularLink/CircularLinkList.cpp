@@ -29,7 +29,7 @@ public:
     {
         this->next = n;
     }
-};
+}; //node class end 
 
 class CircularLinkList
 {
@@ -139,7 +139,7 @@ public:
         }
         cout << "\t" << p->getData();
     }
-};
+};//class end!
 
 int main()
 {
