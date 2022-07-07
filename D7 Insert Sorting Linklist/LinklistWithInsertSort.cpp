@@ -5,7 +5,7 @@ using namespace std;
 class Node
 {
     int Data;
-    Node *next; // node cah object tyar kel next cha address gheyna sathi
+    Node *next; 
 
 public:
     Node(int d)
