@@ -120,9 +120,9 @@ public:
 
 };
 
-int main ()
+int main () /main function 
 { 
-    int choice;
+    int choice; //for menu
     Stack st(5);
 
     while(choice!=4)
