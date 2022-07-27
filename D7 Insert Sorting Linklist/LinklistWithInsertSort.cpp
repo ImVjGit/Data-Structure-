@@ -86,7 +86,7 @@ public:
         }
     }
 
-    void DeleteatEnd() // 5
+    void DeleteatEnd() // Delete from end 
     {
         if (start == NULL)
         {
